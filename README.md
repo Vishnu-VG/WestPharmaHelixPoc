@@ -25,7 +25,7 @@ Search: Used to search and get data. Index init. and predicate build is done her
 Slider (Task 2:) Slider is a feature which have multiple slides and can be added as a component in a page.
 	Slide item will have text, image and url fields and all fields are editable from the exp. editor. 
 	Restrictions are in place for the place-holder and insert options to ensure items of corrrect templates are used while content creation.
-	(Templates, Placeholders, rendering and sample page can be found in the Package attached in /Common folder)
+	(Templates, Placeholders, rendering and sample page can be found in the Package attached in /Sitecore packages folder)
 
 
 ...........................................Foundation.....................................................
