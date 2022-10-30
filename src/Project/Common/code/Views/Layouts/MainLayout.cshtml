@@ -1,0 +1,15 @@
+﻿@using Sitecore.Data.Items;
+@using Sitecore.Mvc.Presentation;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @Html.Sitecore().DynamicPlaceholder("Content-holder")
+    </div>
+</body>
+</html>
